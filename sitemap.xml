@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>__BASE__/</loc></url>
-  <url><loc>__BASE__/a.html</loc></url>
-  <url><loc>__BASE__/b.html</loc></url>
+  <url><loc>https://nosssuri.github.io/sitemap/</loc></url>
+  <url><loc>https://nosssuri.github.io/sitemap/a.html</loc></url>
+  <url><loc>https://nosssuri.github.io/sitemap/b.html</loc></url>
   <!-- フェーズ2で下行のコメントを外して push（c.html を追加） -->
   <!-- <url><loc>__BASE__/c.html</loc></url> -->
 </urlset>
