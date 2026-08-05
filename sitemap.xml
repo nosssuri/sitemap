@@ -3,7 +3,4 @@
   <url><loc>https://nosssuri.github.io/sitemap/</loc></url>
   <url><loc>https://nosssuri.github.io/sitemap/a.html</loc></url>
   <url><loc>https://nosssuri.github.io/sitemap/b.html</loc></url>
-  <!-- フェーズ2で下行のコメントを外して push（c.html を追加） -->
-  <url><loc>https://nosssuri.github.io/sitemap/c.html</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/b2.html</loc></url>
 </urlset>
