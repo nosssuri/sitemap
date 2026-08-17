@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://nosssuri.github.io/sitemap/</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/a.html</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/b.html</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/a2.html</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/b2.html</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/b2.html?xxx=1</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/b2.html?xxx=2</loc></url>
-  <url><loc>https://nosssuri.github.io/sitemap/b3.html</loc></url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://nosssuri.github.io/sitemap/sitemap-a.xml</loc></sitemap>
+</sitemapindex>
